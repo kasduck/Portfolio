@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##I'm Aryan, a fun-loving UI/UX Designer with a passion for creating delightful user experiences.✨
-##I blend technical proficiency with creativity to deliver innovative and effective solutions.✨
+I blend technical proficiency with creativity to deliver innovative and effective solutions.✨
 <!--
 **kasduck/Kasduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
