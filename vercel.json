@@ -1,5 +1,12 @@
 {
     "rewrites": [
         { "source": "/(.*)", "destination": "/index.html" }
+    ],
+    "redirects": [
+        {
+            "source": "/404.html",
+            "destination": "/",
+            "permanent": false
+        }
     ]
 }
